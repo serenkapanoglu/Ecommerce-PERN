@@ -1,0 +1,32 @@
+{
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 30
+      },
+      "price": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "description": {
+        "type": "string"
+      },
+      "count_in_stock": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "imgUrl": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "additionalProperties": false,
+    "required": [
+      "name",
+      "price",
+      "description",
+      "count_in_stock"
+    ]
+  }
