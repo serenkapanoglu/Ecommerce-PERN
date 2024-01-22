@@ -25,14 +25,12 @@ Welcome to Lipstick, your go-to platform for purchasing unique and high-quality 
   <br><br/>
   <img src="https://github.com/serenkapanoglu/Ecommerce-PERN/blob/main/images/Screen%20Shot%202024-01-22%20at%202.43.27%20PM.png" />
 <br><br/>
-<img src="https://github.com/serenkapanoglu/Ecommerce-PERN/blob/main/images/Screen%20Shot%202024-01-22%20at%202.43.27%20PM.png" />
-<br><br/>
 
 ## Lipsticks Listings
 
 - **Extensive Database**: The app boasts a vast database containing lipsticks ensuring users have a wide array of employment opportunities.
 <br><br/>
-<img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.17.28%20AM.png" />
+<img src="https://github.com/serenkapanoglu/Ecommerce-PERN/blob/main/images/Screen%20Shot%202024-01-22%20at%202.43.59%20PM.png" />
 <br><br/>
 
 
@@ -81,5 +79,5 @@ Welcome to Lipstick, your go-to platform for purchasing unique and high-quality 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/serenkapanoglu/seren-job-searchh.git
-   cd seren-job-searchh
+   git clone https://github.com/serenkapanoglu/Ecommerce-PERN.git
+   cd Ecommerce-PERN
